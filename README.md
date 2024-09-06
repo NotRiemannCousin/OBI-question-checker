@@ -2,6 +2,7 @@
 
 A vscode task to check if a C++ solution from the OBI site is correct given that the site doesn't work always. The example in this repo it's from the OBI 2017 - 2º Fase Nível Sênior.
 Please keep the file struture as it was otherwise the task will not work.
+No current support for Linux.
 
 ## How to get the cases
 
